@@ -1,0 +1,21 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporal
+*.tmp
+*.bak
+*.log
+
+# Node modules (si usamos npm)
+node_modules/
+
+# Archivos privados
+*.env
+.env.local
